@@ -2,4 +2,4 @@ Solution for <a href="http://uva.onlinejudge.org/index.php?option=com_onlinejudg
 
 Run:
 
-  $ ./solution < input.txt
+    $ ./solution < input.txt
