@@ -49,6 +49,5 @@ int main () {
       cout << higher - lower << endl;
     }
   }
-
   return 0;
 }
