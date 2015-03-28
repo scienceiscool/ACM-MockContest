@@ -1,5 +1,6 @@
 // February 13, 2015
 // Team members: Kathy Saad, Eric Abbott, Austin Greene
+// Status: Successful
 
 #include <iostream>
 #include <cmath>
